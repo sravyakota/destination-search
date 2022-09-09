@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.img {
+  height: 300px;
+  width: 300px;
+}
+.para {
+  color: #252627;
+  font-family: 'roboto';
+  font-weight: bold;
+  font-size: 16px;
+  margin-left: 10px;
+}
+.mrg {
+  padding: 10px;
+  margin: 10px;
+}
